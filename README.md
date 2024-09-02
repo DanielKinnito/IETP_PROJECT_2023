@@ -1,41 +1,41 @@
-Pitch link : https://www.canva.com/design/DAF26eEp3lw/JY5e8JbXZ22QBgXOgcjQ6Q/edit
+# IETP Project 2023: Density-Based Traffic Light System with Emergency Vehicle Prioritization
 
-pitch youtube link: https://youtu.be/oWaD0Y65JAw
-presenting I: https://youtube.com/shorts/erRXh5oKqLw?feature=share
-part II: https://youtube.com/shorts/Hxohsned0Qw?feature=share
+This repository showcases the work my team and I completed for our Integrated Engineering Team Project. You can explore the full project overview in our [Project Proposal Document](https://github.com/DanielKinnito/IETP_PROJECT_2023/blob/main/Project%20Proposal%20G-26.docx).
 
-# IETP Project 2023: Density Based Traffic Light System with Emergency Vehicle Prioritization
-This Repo was created to display what me and my team were able to do for our Integrated Engineering Team Project.
-For a full overview of the project, you can visit the docx file placed [here](https://github.com/DanielKinnito/IETP_PROJECT_2023/blob/main/Project%20Proposal%20G-26.docx)
+## Project Links
+- **Project Pitch (Canva):** [View Pitch](https://www.canva.com/design/DAF26eEp3lw/JY5e8JbXZ22QBgXOgcjQ6Q/edit)
+- **Pitch Video (YouTube):** [Watch Full Pitch](https://youtu.be/oWaD0Y65JAw)
+- **Presentation Part I (YouTube Short):** [Watch Part I](https://youtube.com/shorts/erRXh5oKqLw?feature=share)
+- **Presentation Part II (YouTube Short):** [Watch Part II](https://youtube.com/shorts/Hxohsned0Qw?feature=share)
 
 ## Table of Contents
 - [Problem Statement](#problem-statement)
-- []()
-- []()
-- []()
-- []()
-  
-## Statement of the Problem
-Traffic congestion and delayed emergency response times pose significant challenges to urban safety and well-being. Traditional traffic light systems often fail to prioritize emergency vehicles, leading to delays that can have life-threatening consequences. This project aims to address these issues by developing a smart traffic light system that prioritizes emergency vehicles, ensuring timely arrival at the scene and improving overall road safety. 
+- [Project Objectives](#project-objectives)
+- [Project Significance](#project-significance)
+- [Expected Outcomes](#expected-outcomes)
+- [Project Report](#project-report)
+- [Project Pitch Video](#project-pitch-video)
 
-## Objectives of the project 
-•	To design and develop a smart traffic light system that effectively prioritizes emergency vehicles. 
-•	To implement RFID technology for emergency vehicle identification and ultrasonic sensors for vehicle detection. 
-•	To develop an intelligent algorithm to control traffic lights and prioritize emergency vehicles. 
-•	To thoroughly test and evaluate the system's performance in a simulated environment.
+## Problem Statement
+Traffic congestion and delayed emergency response times are significant urban challenges. Traditional traffic light systems often fail to prioritize emergency vehicles, causing dangerous delays. Our project aims to solve this by developing a smart traffic light system that prioritizes emergency vehicles, ensuring timely responses and improved road safety.
 
-## Significance of the project
-•	Reduced Traffic Congestion: By dynamically adjusting signal timing to match real-time traffic patterns, the system effectively minimizes the occurrence of traffic jams, leading to smoother and more efficient traffic flow.
-•	 Enhanced Emergency Response Times: The priority mechanism ensures that emergency vehicles can swiftly navigate through intersections, minimizing delays and enabling them to reach critical situations promptly.
-•	Optimized Traffic Flow Efficiency: The intelligent algorithm optimizes signal timing to maximize traffic throughput, reducing overall travel times and improving the overall efficiency of the transportation network.
+## Project Objectives
+- **Design and develop** a smart traffic light system that prioritizes emergency vehicles.
+- **Implement RFID technology** for emergency vehicle identification and ultrasonic sensors for vehicle detection.
+- **Develop an intelligent algorithm** to control traffic lights and prioritize emergency vehicles.
+- **Test and evaluate** the system's performance in a simulated environment.
+
+## Project Significance
+- **Reduced Traffic Congestion:** By adjusting signal timing to match real-time traffic patterns, the system minimizes traffic jams and enhances traffic flow.
+- **Enhanced Emergency Response Times:** The system prioritizes emergency vehicles, allowing them to navigate intersections swiftly and reach critical situations on time.
+- **Optimized Traffic Flow Efficiency:** The intelligent algorithm optimizes signal timing, reducing overall travel times and improving transportation network efficiency.
 
 ## Expected Outcomes
-The successful completion of this project is expected to yield the following outcomes:
-•	A functional prototype of a density- and priority-based traffic light system.
-•	Quantitative data demonstrating the effectiveness of the DPTLS in reducing traffic congestion, improving emergency response times, and optimizing traffic flow efficiency.
+- A functional prototype of a density- and priority-based traffic light system.
+- Quantitative data showcasing the system's effectiveness in reducing congestion, improving emergency response times, and optimizing traffic flow.
 
 ## Project Report
-We were able to accomplish most of the things we set out to do. The report in its full detail can be found [here](/Progress-report.pdf)
+We achieved most of our objectives. You can read the full report [here](/Progress-report.pdf).
 
 ## Project Pitch Video
 [![Watch the Video](https://github.com/DanielKinnito/IETP_PROJECT_2023/blob/main/Final%20presentation/thumbnail.jpg)](https://youtu.be/oWaD0Y65JAw)
